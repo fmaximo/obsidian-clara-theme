@@ -13,6 +13,18 @@ Este projeto nasceu de uma longa conversa sobre organização do conhecimento.
 
 A ideia nunca foi construir apenas um tema para o Obsidian, mas um ambiente que favorecesse estudo, pesquisa, escrita e reflexão.
 
-O objetivo é simples:
+Principios da Clareza:
+
+* cores suaves;
+* pouca poluição visual;
+* organização baseada em pensamento, não em burocracia;
+* destaque para o que merece atenção;
+* comentários claros no código;
+* facilidade de manutenção.
+
+
+Ou, em uma única frase o objetivo é simples:
 
 que a ferramenta desapareça e o pensamento permaneça.
+
+
